@@ -1,0 +1,18 @@
+ul li{
+  list-style: none;
+  float: left;
+  padding: 10px;
+  background-color: rgb(172, 181, 187);
+  margin-right: 1px;
+  font-family: Arial;
+  text-decoration: none;
+}
+.child{
+  margin-left: 40px;
+  margin-top: 30px;
+  text-align: justify;
+ ;
+}
+.child h2{
+  font-size:20px;
+}
